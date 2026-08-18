@@ -1,0 +1,24 @@
+Q1. What is phishing?
+Answer: Phishing is a cyberattack in which an attacker tries to trick people into revealing sensitive information or clicking malicious links by pretending to be a trustworthy person or organization.
+Q2. What is the purpose of your project?
+Answer: The project identifies common warning signs in an email and gives the email a risk level.
+Q3. What are common signs of phishing?
+Answer:
+Urgent or threatening language
+Unknown sender
+Suspicious links
+Requests for passwords or OTPs
+Requests for banking information
+Mismatched or suspicious domains
+Unexpected attachments
+Spelling or grammar mistakes
+Q4. Why is urgent language suspicious?
+Answer: Attackers often create a sense of urgency so that victims act without checking the email carefully.
+Q5. What sensitive information does your program look for?
+Answer:
+Password
+OTP
+PIN
+CVV
+Credit/debit card information
+Bank account information
